@@ -1,7 +1,8 @@
-# ejemplo1
+﻿# ejemplo1
 
 print("integrantes")
 print("Dennis Nuñez")
+print("Edison Jumbo")
 #1726062829
 
 def sumaCedula(listaCedula):
@@ -10,4 +11,4 @@ def sumaCedula(listaCedula):
         Suma = Suma + i
     return Suma
 
-print(sumalista([1,7,2,6,0,6,2,8,2,9]))
+print(sumalista([1,5,2,6,0,0,8,2,9]))
